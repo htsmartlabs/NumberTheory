@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">NumberTheory</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="number">Prime or\n Composite</string>
+    <string name="prime">Prime \n Factorization</string>
+    <string name="lcm">L C M</string>
+    <string name="gcd">G C D</string>
+    <string name="factor">Missing Digits</string>
+    <string name="input">Enter the numbers seperated by coma</string>
+
+    <!-- -
+        This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="banner_ad_unit_id">ca-app-pub-7438198586349335/2104498091</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-7438198586349335/9403281458</string>
+
+    <string name ="zero">0</string>
+    <string name ="one">1</string>
+    <string name ="two">2</string>
+    <string name ="three">3</string>
+    <string name ="four">4</string>
+    <string name ="five">5</string>
+    <string name ="six">6</string>
+    <string name ="seven">7</string>
+    <string name ="eight">8</string>
+    <string name ="nine">9</string>
+    <string name ="back">B</string>
+    <string name ="x">x</string>
+    <string name ="space">S</string>
+    <string name ="ok">OK</string>
+
+</resources>
